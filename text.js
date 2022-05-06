@@ -24,7 +24,7 @@ export default function Text(){
                  <div className="service"><h1>Weed Eating </h1>Included with mowing on most yards. 
                  <img src={Weed} alt="mower" className="services-image"  /> </div>
 
-                 <div className="service"><h1>Sidewalk Edging</h1> Call Isaiah to discuss options.
+                 <div className="service"><h1>Sidewalk Edging</h1> Call name to discuss options.
                  <img src={Edge} alt="mower" className="services-image"  /> </div>
 
                  <div className="service"><h1>Yard cleanup</h1>Call for quotes 
